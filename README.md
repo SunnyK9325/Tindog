@@ -1,2 +1,1 @@
 # Tindog
-startup site
